@@ -1,4 +1,5 @@
 NeolabWindowSDK
 ===============
 
-We will release 11/21
+연습용 git입니다. 여기서 연습하세요
+
