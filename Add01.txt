@@ -18,4 +18,5 @@ local change
 
 AA Mergy Test
 
-내가수정한 내용임
+머지를 진행함
+
