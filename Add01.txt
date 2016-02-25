@@ -18,3 +18,4 @@ local change
 
 AA Mergy Test
 
+다른사람이 수정한 내용임
