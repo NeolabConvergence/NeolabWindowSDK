@@ -20,3 +20,4 @@ AA Mergy Test
 
 머지를 진행함
 
+Using mergetool
